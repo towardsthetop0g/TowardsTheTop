@@ -53,6 +53,3 @@ Toward The Top leverages the **0G Labs stack**:
 - **Smart Contracts:** Solidity (ERC-721 for NFTs, ERC-20 for tokens)  
 
 ---
-
-## 📜 License
-This project is licensed under the MIT License.  
