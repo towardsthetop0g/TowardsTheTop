@@ -1,7 +1,5 @@
 # Towards The Top
 
-# Toward The Top
-
 **Toward The Top** is a blockchain-powered, physics-based climbing obstacle game built with **Unreal Engine 5**.  
 It combines competitive gameplay with Web3 mechanics, enabling players to own assets, trade them in a marketplace, and earn rewards on-chain.
 
